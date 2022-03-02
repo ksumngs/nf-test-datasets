@@ -1,0 +1,4 @@
+#Samplename	Set1-forward	Set1-reverse	Set2-forward	Set2-reverse
+single-compressed	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-01_R1.fastq.gz	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-01_R1.fastq.gz		
+single-uncompressed	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-02_R1.fastq	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-02_R2.fastq		
+combo	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-01_R1.fastq.gz	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-01_R1.fastq.gz	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-02_R1.fastq	https://github.com/ksumngs/nf-test-datasets/raw/yavsap/illumina/pe/deinterleaved/SAMPLE-02_R2.fastq
