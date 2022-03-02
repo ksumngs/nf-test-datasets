@@ -1,0 +1,4 @@
+#sampleid	reads		
+single-barcode01	https://raw.githubusercontent.com/ksumngs/nf-test-datasets/yavsap/nanopore/fastq_pass/barcode01/FAP012345_pass_barcode01_abcd1234_0.fastq	https://raw.githubusercontent.com/ksumngs/nf-test-datasets/yavsap/nanopore/fastq_pass/barcode01/FAP012345_pass_barcode01_abcd1234_1.fastq	
+single-barcode02	https://raw.githubusercontent.com/ksumngs/nf-test-datasets/yavsap/nanopore/fastq_pass/barcode02/FAP012345_pass_barcode02_abcd1234_0.fastq.gz		
+combo-barcode	https://raw.githubusercontent.com/ksumngs/nf-test-datasets/yavsap/nanopore/fastq_pass/barcode01/FAP012345_pass_barcode01_abcd1234_0.fastq	https://raw.githubusercontent.com/ksumngs/nf-test-datasets/yavsap/nanopore/fastq_pass/barcode01/FAP012345_pass_barcode01_abcd1234_1.fastq	https://raw.githubusercontent.com/ksumngs/nf-test-datasets/yavsap/nanopore/fastq_pass/barcode02/FAP012345_pass_barcode02_abcd1234_0.fastq.gz
